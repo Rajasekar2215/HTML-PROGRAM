@@ -1,0 +1,35 @@
+h1{
+    font-size: 40px;
+    background-color:yellow;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-variant: small-caps;
+    
+}
+p{
+    color: black;
+    font-size: 50px;
+    text-shadow: 1px 2px white;
+
+}
+#object{
+    font-size: 30px;
+    background-color: blue;
+    font-family: Times;
+}
+.raj{
+    font-size: 35px;
+    background-color: aqua;
+    font-family: Arial;
+}
+h1, #object, .raj{
+    background-color: red;
+}
+*{
+  color: white;
+  text-shadow: 2px 4px black;
+  background-color: rgb(180, 204, 131);
+  text-indent: 2px;
+  text-align: center;
+}
+
